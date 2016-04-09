@@ -68,5 +68,10 @@ namespace ProjectEuler_Test1
         {
 
         }
+
+        public void TestIfBranchIsOnGitHub()
+        {
+            //ASJDHAKJSHDJKASD
+        }
     }
 }
