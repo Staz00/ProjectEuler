@@ -63,5 +63,10 @@ namespace ProjectEuler_Test1
 
             return sum + 2;
         }
+
+        public void TestForBranching()
+        {
+
+        }
     }
 }
